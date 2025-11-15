@@ -3,6 +3,3 @@
 *.ts linguist-generated
 *.tsx linguist-generated
 *.jsx linguist-generated
-*.js linguist-generated
-*.css linguist-generated
-*.html linguist-generated
