@@ -47,7 +47,7 @@ const launchpadApps: LaunchpadData[] = [
     id: "rasl",
     title: "Resume",
     img: "img/icons/launchpad/resume.png",  
-    link: "https://drive.google.com/file/d/16hRvpFtGBGbu2WWyTT4jMnrxZZIROXiA/view"
+    link: "https://drive.google.com/file/d/1pQ8KMKHGd6EnUeWhZtFGWiE9dmOOj8kk/view?usp=sharing"
   }
 ];
 
