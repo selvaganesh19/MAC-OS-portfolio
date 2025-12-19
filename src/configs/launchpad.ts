@@ -41,7 +41,7 @@ const launchpadApps: LaunchpadData[] = [
     id: "rasl-2",
     title: "My Skills",
     img: "img/icons/skills.png",  
-    link: "https://praneshskills.vercel.app/"
+    link: "https://selva-skillsicons.vercel.app/"
   },
   {
     id: "rasl",
